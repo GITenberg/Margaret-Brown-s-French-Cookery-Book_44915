@@ -1,0 +1,25 @@
+_repo: Margaret-Brown-s-French-Cookery-Book_44915
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44915-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Brown, Margaret
+    gutenberg_agent_id: '42992'
+    url: http://www.gutenberg.org/2009/agents/42992
+description: ''
+gutenberg_issued: '2014-02-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44915'
+  lccn: 08016072
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cooking'
+- !lcc 'TX'
+title: Margaret Brown's French Cookery Book
+url: http://www.gutenberg.org/ebooks/44915
